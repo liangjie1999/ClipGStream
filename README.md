@@ -1,5 +1,5 @@
 # ClipGStream (CVPR 2026)
-### [Project page](https://github.com/liangjie1999/ClipGStream) | [Paper](https://arxiv.org/pdf/2507.02363) | [Long 360](https://huggingface.co/datasets/BestWJH/VRU_Basketball/tree/main) | [VRU Dataset](https://huggingface.co/datasets/BestWJH/VRU_Basketball/tree/main)
+### [Project page](https://liangjie1999.github.io/ClipGStreamWeb/) | [Paper](https://arxiv.org/abs/2604.13746) | [Long 360](https://huggingface.co/datasets/BestWJH/VRU_Basketball/tree/main) | [VRU Dataset](https://huggingface.co/datasets/BestWJH/VRU_Basketball/tree/main)
 > **ClipGStream: Clip-Stream Gaussian Splatting for Any Length and Any Motion
 Multi-View Dynamic Scene Reconstruction**,            
 > Jie Liang, Jiahao Wu, Chao Wang, Jiayu Yang, Xiaoyun Zheng, Kaiqiang Xiong, Zhanke Wang, Jinbo Yan, FengGao, Ronggang Wang  
@@ -208,6 +208,15 @@ python images2video.py -m ./output/tiny_long_360/ --iteration 5000
 ## Citation
 
 ```
+@misc{liang2026clipgstreamclipstreamgaussiansplatting,
+      title={ClipGStream: Clip-Stream Gaussian Splatting for Any Length and Any Motion Multi-View Dynamic Scene Reconstruction}, 
+      author={Jie Liang and Jiahao Wu and Chao Wang and Jiayu Yang and Xiaoyun Zheng and Kaiqiang Xiong and Zhanke Wang and Jinbo Yan and Feng Gao and Ronggang Wang},
+      year={2026},
+      eprint={2604.13746},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2604.13746}, 
+}
 @article{wu2025localdygs,
   title={LocalDyGS: Multi-view Global Dynamic Scene Modeling via Adaptive Local Implicit Feature Decoupling},
   author={Wu, Jiahao and Peng, Rui and Jiao, Jianbo and Yang, Jiayu and Tang, Luyang and Xiong, Kaiqiang and Liang, Jie and Yan, Jinbo and Liu, Runling and Wang, Ronggang},
