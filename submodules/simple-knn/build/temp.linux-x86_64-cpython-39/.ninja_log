@@ -1,0 +1,7 @@
+# ninja log v5
+0	8152	1742609885103248453	/data2/liangjie/3DHGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/simple_knn.o	102e03aed1b9fa45
+0	12537	1742609889487234510	/data2/liangjie/3DHGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/ext.o	14b8bdcf3893f465
+1	37042	1742609913991141809	/data2/liangjie/3DHGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/spatial.o	35071db700fd7a93
+1	8234	1742699000931967447	/data2/liangjie/Scaffold-GS+HGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/simple_knn.o	4484923c0429bbce
+0	13385	1742699006081850269	/data2/liangjie/Scaffold-GS+HGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/ext.o	4384fd515ae6bb83
+1	38397	1742699031063282801	/data2/liangjie/Scaffold-GS+HGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/spatial.o	1fe6459cf9d1c58c
