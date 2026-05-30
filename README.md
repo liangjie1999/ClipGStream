@@ -6,7 +6,7 @@ Multi-View Dynamic Scene Reconstruction**,
 > **Guangdong Provincial Key Laboratory of Ultra High Definition Immersive Media Technology,
 Shenzhen Graduate School, Peking University, Pengcheng Lab, Peking Unviersity**  
 > **CVPR 2026**
-> 
+>  
 This repository is the official implementation of **"ClipGStream: Clip-Stream Gaussian Splatting for Any Length and Any Motion
 Multi-View Dynamic Scene Reconstruction"**. 
 
